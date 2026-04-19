@@ -18,11 +18,12 @@ By integrating both modalities, FUSH achieves significantly better performance t
 ---
 
 ## Repository Structure
-├── dataset/ # Dataset files
-
 └── model/ # Model implementation (FUSH)
 
+## Dataset
+The dataset is available at:
 
+https://drive.google.com/drive/folders/1eVvYad_K2OrN4UhrfxcjjvtR3hCuCcQr?usp=drive_link
 
 
 ## Label Definition
